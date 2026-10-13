@@ -1,4 +1,4 @@
-# Concept Design Prototype of a Box Having Two Switches
+# Concept Design Prototype of A Box Having Two Switches
 
 ## Summary
 
