@@ -41,36 +41,18 @@ The box was developed as a computational model in SolidWorks. The views and the 
 | 02  |       Fillet       |
 | 03  |      Chamfer       |
 | 04  |     Split Line     |
-| 05  |     Split Line     |
-| 06  |    Delete Face     |
-| 07  |    Surface Loft    |
-| 08  |    Surface Knit    |
-| 09  |    Surface Fill    |
-| 10  |    Surface Fill    |
-| 11  |       Fillet       |
-| 12  |    Delete Face     |
-| 13  |    Surface Fill    |
-| 14  |       Fillet       |
-| 15  |       Sweep        |
-| 16  |    Surface Trim    |
-| 17  |   Surface Sweep    |
-| 18  |    Surface Trim    |
-| 19  |      Thicken       |
-| 20  |      Thicken       |
-| 21  |      Thicken       |
-| 22  |       Fillet       |
-| 23  |       Fillet       |
-| 24  |       Fillet       |
-| 25  |    Boss Extrude    |
-| 26  |     Split Line     |
-| 27  |        Dome        |
-| 28  |  Thin Cut Extrude  |
-| 29  |       Fillet       |
-| 30  |       Fillet       |
-| 31  |    Cut Extrude     |
-| 32  |       Fillet       |
-| 33  |       Fillet       |
-| 34  |       Mirror       |
+| 05  |    Delete Face     |
+| 06  |    Surface Loft    |
+| 07  |    Surface Knit    |
+| 08  |    Surface Fill    |
+| 09  |       Sweep        |
+| 10  |    Surface Trim    |
+| 11  |   Surface Sweep    |
+| 12  |      Thicken       |
+| 13  |        Dome        |
+| 14  |  Thin Cut Extrude  |
+| 15  |    Cut Extrude     |
+| 16  |       Mirror       |
 
 ---
 
