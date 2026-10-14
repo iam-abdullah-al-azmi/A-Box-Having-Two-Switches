@@ -59,3 +59,9 @@ The box is currently only an external shell with two switches. After adding elec
 [^1]: [Chamberlain 2-Button Keychain Garage Door Remote](https://www.farmandfleet.com/products/1615082-chamberlain-2-button-keychain-garage-door-remote.html)
 
 [^2]: [Switches 101: Switches as Assistive Technology](https://cdci.w3.uvm.edu/blog/pedsprovt/switches-101-switches-as-assistive-technology/)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
