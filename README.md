@@ -1,33 +1,85 @@
-# Concept Design Prototype of A Box Having Two Switches
+# A Two-Tone Rounded Box with Two Push Switches
 
 ## Summary
 
-Designing this concept design prototype was inspired by a YouTube video.
+Small handheld boxes with one or two push switches are everywhere, from key-fob remotes that open a gate or a garage door to switch boxes that let people with limited mobility operate toys and computers. A good design for such a device has to feel comfortable in the hand, keep the switches easy to find and press, and look clean and finished.
+
+This concept design prototype was inspired by a YouTube video. The model is a flat, rounded rectangular box with a dark lower shell and a lighter top cover. The cover is split into two panels of different tones, and each panel carries one round push switch set inside a raised rim, placed at opposite ends of the box. The top cover curves smoothly down over the edges and meets the dark shell along a flowing line. The feature tree shows that the body was built mainly from surfaces, which were lofted, filled, trimmed, and knitted together before being thickened into solid bodies. Keeping these curved surfaces smooth and continuous around the rounded corners was the main modeling challenge.
+
+The box was developed as a computational model in SolidWorks. The views and the section view below show how the two-tone cover, the two switches, and the hollow shell come together. This prototype is a base concept design that can be developed further into a working two-button remote or switch interface.
 
 ---
 
 ## Computational Design
 
-|   View    |                               Image                                |
-| :-------: | :----------------------------------------------------------------: |
-| Isometric | ![Isometric View](images/complex_product_model_isometric_view.JPG) |
-|   Left    |      ![Left View](images/complex_product_model_left_view.JPG)      |
-|   Right   |     ![Right View](images/complex_product_model_right_view.JPG)     |
-|   Back    |      ![Back View](images/complex_product_model_back_view.JPG)      |
-|   Front   |     ![Front View](images/complex_product_model_front_view.JPG)     |
-|    Top    |       ![Top View](images/complex_product_model_top_view.JPG)       |
-|  Bottom   |    ![Bottom View](images/complex_product_model_bottom_view.JPG)    |
-|  Section  |   ![Section View](images/complex_product_model_section_view.JPG)   |
+|   View    | Image |
+| :-------: | :---: |
+| Isometric | ![Isometric view of the box showing the rounded two-tone top cover, the dark lower shell, and two raised round push switches](images/box_with_two_switches_isometric_view.JPG) |
+| Left | ![Left side view of the box showing the dark lower shell, the thin lighter top cover, and both switches rising above it](images/box_with_two_switches_left_view.JPG) |
+| Right | ![Right side view of the box showing the lighter top cover dipping in a curve into the dark lower shell, with both switches raised above it](images/box_with_two_switches_right_view.JPG) |
+| Back | ![Back view of the box showing the plain dark lower shell, the thin lighter top cover, and one raised switch](images/box_with_two_switches_back_view.JPG) |
+| Front | ![Front view of the box showing the lighter top cover curving down into the dark lower shell, with one raised switch](images/box_with_two_switches_front_view.JPG) |
+| Top | ![Top view of the box showing the rounded rectangular outline, the cover split into two panels, and one round switch on each panel](images/box_with_two_switches_top_view.JPG) |
+| Bottom | ![Bottom view of the box showing a plain, smooth, rounded dark base](images/box_with_two_switches_bottom_view.JPG) |
+| Section | ![Section view of the box showing the hollow interior of the shell cut open along its length](images/box_with_two_switches_section_view.JPG) |
 
 ---
 
-## Technologies Used
-
-### Software
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |        Name        |
+| :-: | :----------------: |
+| 01  |    Boss Extrude    |
+| 02  |       Fillet       |
+| 03  |      Chamfer       |
+| 04  |     Split Line     |
+| 05  |     Split Line     |
+| 06  |    Delete Face     |
+| 07  |    Surface Loft    |
+| 08  |    Surface Knit    |
+| 09  |    Surface Fill    |
+| 10  |    Surface Fill    |
+| 11  |       Fillet       |
+| 12  |    Delete Face     |
+| 13  |    Surface Fill    |
+| 14  |       Fillet       |
+| 15  |       Sweep        |
+| 16  |    Surface Trim    |
+| 17  |   Surface Sweep    |
+| 18  |    Surface Trim    |
+| 19  |      Thicken       |
+| 20  |      Thicken       |
+| 21  |      Thicken       |
+| 22  |       Fillet       |
+| 23  |       Fillet       |
+| 24  |       Fillet       |
+| 25  |    Boss Extrude    |
+| 26  |     Split Line     |
+| 27  |        Dome        |
+| 28  |  Thin Cut Extrude  |
+| 29  |       Fillet       |
+| 30  |       Fillet       |
+| 31  |    Cut Extrude     |
+| 32  |       Fillet       |
+| 33  |       Fillet       |
+| 34  |       Mirror       |
+
+---
+
+## Feature Tree
+
+| No  | Image |
+| :-: | :---: |
+| 01  | ![Feature tree of the box in SolidWorks, from History to Fillet6, with the finished box shown in the viewport](images/box_with_two_switches_feature_tree_one.png) |
+| 02  | ![Feature tree of the box in SolidWorks, from Origin to Mirror1, with the finished box shown in the viewport](images/box_with_two_switches_feature_tree_two.png) |
 
 ---
 
