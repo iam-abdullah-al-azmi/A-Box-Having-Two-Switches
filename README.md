@@ -33,7 +33,7 @@ The box was developed as a computational model in SolidWorks. The views and the 
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |        Name        |
 | :-: | :----------------: |
@@ -56,7 +56,7 @@ The box was developed as a computational model in SolidWorks. The views and the 
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
 | No  | Image |
 | :-: | :---: |
